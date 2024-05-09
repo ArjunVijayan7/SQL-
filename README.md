@@ -1,2 +1,2 @@
 # SQL-
-Practicing queries 
+Maven movies Database
