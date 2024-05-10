@@ -1,5 +1,8 @@
-# SQL-
-Maven movies Database
+# MySQL -
+Movie Database Insights: Analyzing Maven Movies Database with MySQL:
+
+Below are the SQL queries written to extract and analyze various tables from the Maven Movies database
+
 /*
 1.	We will need a list of all staff members, including their first and last names, 
 email addresses, and the store identification number where they work. 
